@@ -4,7 +4,8 @@ ANÁLISE DE CONSUMO ENERGÉTICO INDUSTRIAL
 Dados sintéticos | Regressão múltipla | Excel | Power Query
 Quais fatores mais influenciam o consumo de energia?
 
-Através de um banco de dados em Excel realizei ETL usando Power Query e criei um arquivo limpo para análise de fatores associados ao consumo energético de uma linha industrial.
+Através de um banco de dados em Excel realizei ETL usando Power Query e criei um arquivo limpo para análise de fatores associados ao consumo energético de uma linha industrial - Banco 
+Energia Producao.
 
 Foram utilizadas variáveis como:
 •	Máquinas; 
