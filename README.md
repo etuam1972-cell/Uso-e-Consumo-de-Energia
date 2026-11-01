@@ -24,7 +24,7 @@ Não foram feitas várias análises iguais para várias máquinas, mas diferente
 Partindo de uma planilha chamada Medicoes_Energia_Producao fizemos:
 
 •	Nova planilha chamada Gráfico Dispersão Máq 01 - nessa planilha criamos um gráfico de dispersão (regressão linear) comparativo entre kWh x Golpes entre 2025 e 2026 com um ponto fundamental
-(utilizamos a energia 2025 + 2026 da Máquina 01 não normalizada e comparamos com comparamos a energia 2025 + 2026 da Máquina 01 normalizada).
+(utilizamos a energia 2025 + 2026 da Máquina 01 não normalizada e comparamos com a energia 2025 + 2026 da Máquina 01 normalizada).
 
 Isso foi feito porque, como os números vinham de uma base sintética de dados, o R² ficou bastante ruim (0,2924) quando comparamos dados não normalizados. Como o objetivo é demonstrar e avaliar 
 correlação optei por criar uma coluna de Producao_Golpe normalizada. Um R² baixo significa que o modelo de regressão explica apenas uma pequena proporção da variação da variável dependente em 
