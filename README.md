@@ -1,4 +1,4 @@
-Projeto acadêmico com dados sintéticos
+Projeto acadêmico 
 
 ANÁLISE DE CONSUMO ENERGÉTICO INDUSTRIAL
 Dados sintéticos | Regressão múltipla | Excel 
