@@ -23,7 +23,7 @@ Não foram feitas várias análises iguais para várias máquinas, mas diferente
 
 Partindo de uma planilha chamada Medicoes_Energia_Producao fizemos:
 
-1 •	Nova planilha chamada Gráfico Dispersão Máq 01 - nessa planilha criamos um gráfico de dispersão (regressão linear) comparativo entre kWh x Golpes entre 2025 e 2026 com um ponto fundamental
+1 •	Nova planilha chamada Gráfico Dispersão Máq 01 (Centro de Usinagem U01) - nessa planilha criamos um gráfico de dispersão (regressão linear) comparativo entre kWh x Golpes entre 2025 e 2026 com um ponto fundamental
 (utilizamos a energia 2025 + 2026 da Máquina 01 não normalizada e comparamos com a energia 2025 + 2026 da Máquina 01 normalizada).
 
 Isso foi feito porque, como os números vinham de uma base sintética de dados, o R² ficou bastante ruim (0,2924) quando comparamos dados não normalizados. Como o objetivo é demonstrar e avaliar 
@@ -40,7 +40,7 @@ dispersão (variância e desvio padrão).
 Para fazer previsão de consumo energético para 2027 criamos ainda nova tabela dentro dessa mesma planilha e usando fórmula aleatório entre 300 e 420 para produzir quantidade de peças aleatória, 
 calculamos energia a ser consumida usando linha de tendência (Y=0,9987 + 8,0436) obtida durante testes nessa planilha. Aplicamos medidas descritivas para essa tabela também.
 
-2 •	Nova planilha chamada Regressão MAQ 01 (Centro de Usinagem U01)onde utilizamos ferramenta de análise de dados para avaliar através da regressão os mesmos parâmetros verificados anteriormente 
+2 •	Nova planilha chamada Regressão MAQ 01 (Centro de Usinagem U01) onde utilizamos ferramenta de análise de dados para avaliar através da regressão os mesmos parâmetros verificados anteriormente 
 sem uso dessa ferramenta. 
 
 Através dessa ferramenta podemos analisar valor-p (probabilidade de observar um resultado tão extremo quanto o obtido, assumindo que a hipótese nula seja verdadeira; ele é usado para decidir se 
