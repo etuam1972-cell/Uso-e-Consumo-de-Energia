@@ -61,7 +61,7 @@ transformar variáveis ou escolher outro tipo de modelo.
 Consumo_kWh_por_Golpe com filtro por turno. Não construí gráficos dinâmicos, mas poderiam facilmente ser gerados a partir desses dados. Outras tabelas também poderiam ser geradas a partir desses
 dados, porém o objetivo era de mostrar várias maneiras de tratar os dados gerados sinteticamente. 
 
-4 •	Modificando um pouco a tratativa dos dados foi criada nova planilha chamada LBE Maq 05 e 06 (Injetora I01 e Injetora I02) para criar uma linha de base e meta baseado nos dados sintéticos dessas 
+4 •	Nova planilha chamada LBE Maq 05 e 06 (Injetora I01 e Injetora I02) para criar uma linha de base e meta baseado nos dados sintéticos dessas 
 máquinas em 2025. Usando 12 meses como base para essa avaliação, criamos IDE, LBE e Meta. Como parâmetro definimos que a meta seria 5% abaixo da LBE calculada e baseada em 2025. Criamos um gráfico
 combinado de linhas e colinas para demonstrar dados também.
 
