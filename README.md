@@ -63,7 +63,7 @@ dados, porém o objetivo era de mostrar várias maneiras de tratar os dados gera
 
 4 •	Nova planilha chamada LBE Maq 05 e 06 (Injetora I01 e Injetora I02) para criar uma linha de base e meta baseado nos dados sintéticos dessas 
 máquinas em 2025. Usando 12 meses como base para essa avaliação, criamos IDE, LBE e Meta. Como parâmetro definimos que a meta seria 5% abaixo da LBE calculada e baseada em 2025. Criamos um gráfico
-combinado de linhas e colinas para demonstrar dados também.
+combinado de linhas e colunas para demonstrar dados também.
 
 5 •	Criei nova planilha chamada LUCE (Lista de Usos e Consumos de Energia) baseada nos nossos dados sintéticos. Fiz formatação condicional com Escalas de Cor na coluna Soma de Energia_kWh e formatação
 Barras de Dados na coluna Soma de Uso_kWh_por_Golpe. Classifiquei máquinas do Menor para o Maior na coluna TOP Consumidor.
