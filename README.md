@@ -38,8 +38,7 @@ Como se tratam de variáveis quantitativas contínuas, nessa mesma planilha apli
 dispersão (variância e desvio padrão).
 
 Para fazer previsão de consumo energético para 2027 criamos ainda nova tabela dentro dessa mesma planilha e usando fórmula aleatório entre 300 e 420 para produzir quantidade de peças aleatória, 
-calculamos energia a ser consumida usando linha de tendência (Y=0,9987 + 8,0436) obtida durante testes nessa planilha. Como se tratam de variáveis quantitativas contínuas, nessa mesma planilha 
-aplicamos medidas descritivas, incluindo medidas de tendência central (média, mediana, moda) e de dispersão (variância e desvio padrão).
+calculamos energia a ser consumida usando linha de tendência (Y=0,9987 + 8,0436) obtida durante testes nessa planilha. Aplicamos medidas descritivas para essa tabela também.
 
 •	Nova planilha chamada Regressão MAQ 01 (Centro de Usinagem U01)onde utilizamos ferramenta de análise de dados para avaliar através da regressão os mesmos parâmetros verificados anteriormente 
 sem uso dessa ferramenta. 
