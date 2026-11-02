@@ -65,17 +65,18 @@ dados, porém o objetivo era de mostrar várias maneiras de tratar os dados gera
 máquinas em 2025. Usando 12 meses como base para essa avaliação, criamos IDE, LBE e Meta. Como parâmetro definimos que a meta seria 5% abaixo da LBE calculada e baseada em 2025. Criamos um gráfico
 combinado de linhas e colunas para demonstrar dados também.
 
-5 •	Criei nova planilha chamada LUCE (Lista de Usos e Consumos de Energia) baseada nos nossos dados sintéticos. Fiz formatação condicional com Escalas de Cor na coluna Soma de Energia_kWh e formatação
+5 •	Nova planilha chamada LUCE (Lista de Usos e Consumos de Energia) baseada nos nossos dados sintéticos. Fiz formatação condicional com Escalas de Cor na coluna Soma de Energia_kWh e formatação
 Barras de Dados na coluna Soma de Uso_kWh_por_Golpe. Classifiquei máquinas do Menor para o Maior na coluna TOP Consumidor.
 
-8 •	Criei nova planilha dinâmica chamada TOP 5 baseada na planilha LUCE (Lista de Usos e Consumos de Energia) e nela separei os TOP 5 consumidores. Fiz gráfico dinâmico de pizza baseado nesse TOP 5 com
+6 •	Nova planilha dinâmica chamada TOP 5 baseada na planilha LUCE (Lista de Usos e Consumos de Energia) e nela separei os TOP 5 consumidores. Fiz gráfico dinâmico de pizza baseado nesse TOP 5 com
 filtro para ano.
 
-7 •	Criei nova planilha Gráficos Dinâmicos onde foram criados 3 gráficos dinâmicos combinados (linha e coluna) - kWh/golpe máquinas + Prensas ( Horas Operação x Produção_Golpes) com filtro por máquina, anos
+7 •	Nova planilha Gráficos Dinâmicos onde foram criados 3 gráficos dinâmicos combinados (linha e coluna) - kWh/golpe máquinas + Prensas ( Horas Operação x Produção_Golpes) com filtro por máquina, anos
 e meses + Injetoras ( Produção_Golpes x Média de Consumo_kWh_por_ Golpe) com filtros por turno e por máquina.
 
-8 •	Nova planilha chamada Gráfico Dispersão Máq 10 e 11 (Prensa P01 e Prensa P02)  - nessa planilha criamos um gráfico de dispersão (regressão linear) comparativo entre kWh x Golpes entre 2025 e 2026 sem 
-normalizar. Sem normalizar os números da base sintética de dados, os R² das duas máquinas ficaram muito ruins. Como o objetivo é demonstrar e avaliar resultados em base não normalizada, conseguimos perceber
+8 •	Nova planilha chamada Gráfico Dispersão Máq 10 e 11 (Prensa P01 e Prensa P02)  - nessa planilha criei um gráfico de dispersão (regressão linear) comparativo entre kWh x Golpes entre 2025 e 2026 sem 
+normalizar. 
+Sem normalizar os números da base sintética de dados, os R² das duas máquinas ficaram muito ruins. Como o objetivo é demonstrar e avaliar resultados em base não normalizada, conseguimos perceber
 que o R² baixo demonstra que o modelo de regressão não explica o consumo pela produção.
 Como se tratam de variáveis quantitativas contínuas, nessa mesma planilha aplicamos medidas descritivas, incluindo medidas de tendência central (média) e de dispersão (variância e desvio padrão).
 
